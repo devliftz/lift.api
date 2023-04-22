@@ -1,4 +1,8 @@
 {
   "public": "false",
-  "output": "Success"
+  "public_code": "uphkR-CePQtE-L9hop",
+  "rules": [
+    "permissions": "all",
+    "enabled": "true"
+  ]
 }
