@@ -1,0 +1,12 @@
+{
+  "0.0.0.0": [
+    "public": "false",
+    "version": "0.13.1",
+    "pyversion": "3.11.3"
+  ]
+  "127.0.0.1": [
+    "public": "false",
+    "version": "0.13.1",
+    "pyversion": "3.11.3"
+  ]
+}
