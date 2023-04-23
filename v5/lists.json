@@ -1,0 +1,10 @@
+{
+  "icons": {
+    "white": "http://api.icey.fr/icons/crypto/white/",
+    "black": "http://api.icey.fr/icons/crypto/black/",
+    "color": "http://api.icey.fr/icons/crypto/color/"
+  }
+  "keys": {
+    "api": "http://api.icey.fr/keys/"
+  }
+}
